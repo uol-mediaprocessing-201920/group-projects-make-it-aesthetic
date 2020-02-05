@@ -11,9 +11,9 @@
 [ ] Bildernummern überprüfen und ändern
 [X] Kommentare durchgehen
 [ ] HoughLines Erklärung
-[ ] Get Coordinates Erklärung
-[ ] Plot Crop mit RT Erklärung
-[ ] Crop Erklärung Bilder erklären
-[ ] Einleitungssatz für Application to other Images
-[ ] Nicht erklärte Methoden erklären
+[X] Get Coordinates Erklärung
+[X] Plot Crop mit RT Erklärung
+[X] Crop Erklärung Bilder erklären
+[X] Einleitungssatz für Application to other Images
+[X] Nicht erklärte Methoden erklären
 [ ] 4.3.5 zu jedem Bild eine kurze Erklärung plus Einleitung plus Methode beschreiben
